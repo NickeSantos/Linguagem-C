@@ -1,4 +1,4 @@
-# Linguagem C
+# 💻 Linguagem C
 
 Repositório dedicado aos projetos desenvolvidos durante meus estudos de Programação em C.
 
