@@ -15,18 +15,10 @@ Repositório dedicado aos projetos desenvolvidos durante meus estudos de Program
 
 ## 🚀 Projetos
 
-## 🕵️ Detective Quest
-Jogo de investigação desenvolvido em C utilizando estruturas condicionais e lógica de decisão.
-
-## 📦 Inventário
-Sistema de gerenciamento de inventário com cadastro e colsulta de itens.
-
-## ⚔️ Jogo War
-Projeto inspirado no jogo War para praticar estruturas de dados e lógica de programação.
-
-## 🎮 Tetris Stack
-Implementação simplificada do Tetris utilizando pilhas e manipulação de matrizes.
-
-## 🎯 Objetivo
-Consolidar conhecimentos em programação estruturada e lógica computacional através de projetos práticos.
-
+| Projeto | Descrição |
+|----------|------------|
+| 🕵️ Detective Quest | Jogo de investigação desenvolvido em C |
+| 📦 Inventário | Sistema simples de gerenciamento de estoque |
+| ⚔️ Jogo War | Simulação inspirada no jogo War |
+| 🧱 Tetris Stack | Projeto baseado na lógica do Tetris |
+| 🌱 Primeiros Projetos | Exercícios iniciais de programação em C |
